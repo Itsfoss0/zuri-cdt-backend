@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 """
+studentId: zur000374jnl
 Determine a cascading palindrome
 """
 
